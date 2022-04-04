@@ -4,7 +4,7 @@
 This is solar cell research to understand patterned ARC impact on its efficiency. This study aims to understand the textured surface of ARC by using python-meep simulation tools. Users could specify the desired parameters(pattern sharp, width, depth, symmetry).
 
 ## Repository structure
--six models of surface
+- Six models of surface
 
 ## Run
 - Download and Install Anaconda: https://www.anaconda.com/products/distribution
