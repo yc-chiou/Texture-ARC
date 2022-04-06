@@ -14,7 +14,7 @@ This is solar cell research to understand patterned ARC impact on its efficiency
 ## Run
 - Download and Install Anaconda: https://www.anaconda.com/products/distribution
 - Install pymeep: ```conda create -n mp -c conda-forge pymeep pymeep-extras```, or with mpi: ```conda create -n pmp -c conda-forge pymeep=*=mpi_mpich_*```
-- Run '''Jupiter notebook''' and run the selected script(input the desired parameters)
+- Run ```Jupiter notebook``` and run the selected script(input the desired parameters)
 
 ## Reference
 https://meep.readthedocs.io/en/latest/
